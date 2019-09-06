@@ -1,0 +1,287 @@
+
+
+/******letter styling*************/
+
+
+.letter, .not_admin_letter {
+display: block;
+float: left;
+margin: 0;
+width: auto;
+height: auto;
+
+}
+
+.letter div.wrap_page_a4 {
+background-color: #ffffff;
+
+}
+
+.letter div.page_a4 {
+background-image: url('../images/congo-bkg.png');
+background-repeat: no-repeat;
+background-position: center center;
+z-index: 1000;
+
+}
+
+.not_admin_letter {
+background-image: url('../images/dont_print.png');
+
+}
+
+
+div.wrap_page_a4 {
+
+margin: 0 0 50px 0;
+width: 740px;
+height: 1120px;
+
+}
+
+div.page_a4 {
+
+margin: 0;
+width: 740px;
+height: 1120px;
+padding: 1%;
+font : 115%/1.2em "Times New Roman", Georgia;
+line-height: 1.2em;
+
+}
+
+
+.lt_top_small {
+clear: both;
+width: auto;
+height: 10px;
+margin: 0;
+padding: 0;
+font-size: 0.5em;
+text-align: right;
+
+}
+
+.lt_title {
+display: block;
+clear: both;
+width: 100%;
+height: auto;
+margin: 0em 0 0.5em 0;
+padding: 0;
+padding: 0;
+font-size: 1.2em;
+font-weight: bold;
+text-align: center;
+white-space: pre-line;
+
+}
+
+.lt_left {
+display: block;
+float: left;
+margin: 0em 0.5em 0 0;
+padding: 0;
+width: auto;
+height: auto;
+text-align: justify;
+white-space: pre-line;
+
+}
+
+.lt_middle_left {
+display: block;
+float: right;
+margin: 0em 0.5em 0 0;
+padding: 0;
+width: 70%;
+height: auto;
+text-align: justify;
+white-space: pre-line;
+
+}
+
+.lt_left_alcenter {
+display: block;
+float: left;
+width: auto;
+margin: 0em 0.5em 0 0;
+padding: 0;
+text-align: center;
+white-space: pre-line;
+
+}
+
+.lt_top_right {
+display: block;
+float: right;
+margin: 0em 0.5em 0 1em;
+padding: 1em 0 0 0 ;
+width: 340px;
+height: auto;
+word-spacing: 1px;
+
+}
+
+.lt_right {
+display: block;
+float: right;
+margin: 0em 0.5em 0 1em;
+padding: 0;
+width: auto;
+height: auto;
+text-align: justify;
+white-space: pre-line;
+
+}
+
+
+.lt_articles {
+display: block;
+float: right;
+margin: 0em 0.5em 0 0;
+padding: 0;
+width: 600px;
+height: auto;
+text-align: justify;
+word-spacing: 2px;
+
+}
+
+
+.lt_middle_right {
+display: block;
+float: right;
+margin: 0em 0.5em 0 1em;
+padding: 0;
+width: 45%;
+height: auto;
+text-align: justify;
+white-space: pre-line;
+
+}
+
+.lt_right_alcenter {
+display: block;
+float: right;
+margin: 0em 0.5em 0 1em;
+padding: 0;
+width: auto;
+text-align: center;
+white-space: pre-line;
+
+}
+
+.lt_parag {
+clear: both;
+display: block;
+margin: 0em 0.5em 0 0;
+padding: 0;
+width: 100%;
+text-align: justify;
+
+}
+
+.lt_bold {
+font-weight: bold;
+
+}
+
+.lt_underline {
+text-decoration: underline;
+
+}
+
+
+.lt_box {
+display: block;
+margin: 0em 1em 0 0;
+padding: 1em 0.5em 1em 0.5em;
+height: auto;
+vertical-align: middle;
+border: 1px solid black;
+
+}
+
+.lt_space {
+display: block;
+clear: both;
+width: 1px;
+height: 0.5em;
+
+}
+
+.lt_small_space {
+display: block;
+clear: both;
+width: 1px;
+height: 5px;
+
+}
+
+table  {
+margin: 1.5em 0 1.5em 0;
+border-right: 1px solid #000000;
+border-bottom: 1px solid #000000;
+width: 100%;
+
+}
+
+th, td  {
+margin: 0;
+padding: 5px;
+text-align: center;
+border-top: 1px solid #000000;
+border-left: 1px solid #000000;
+
+}
+
+table.table_serv {
+
+
+}
+
+table.table_serv td {
+height: 100px;
+
+}
+
+.cleared
+{
+  float: none;
+  clear: both;
+  margin: 0;
+  padding: 0;
+  border: none;
+  font-size: 1px;
+}
+
+.wrap_save_print_letter {
+display: block;
+float: left;
+width: 200px;
+height: auto;
+margin: 1em 1em 0.5em 0.5em;
+padding: 0.5em;
+border: 1px solid #C0C0C0;
+
+}
+
+.letter_params {
+display: block;
+float: left;
+margin: 1em 1em 0.5em 0.5em;
+
+}
+
+
+.back_submit_button {
+float: left;
+margin: 1em 0 0.5em 0;
+
+}
+
+.lt_invisible {
+display:none;
+
+}

@@ -1,0 +1,12 @@
+{
+    "name": "sonkotek/eprocess",
+    "description": "Administration workflow",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Novi Sonko",
+            "email": "novisonko@gmail.com"
+        }
+    ],
+    "require": {}
+}

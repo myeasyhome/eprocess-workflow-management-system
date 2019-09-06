@@ -1,0 +1,186 @@
+
+/******************************************* 
+
+	Global style
+
+	Basic
+	
+
+********************************************/
+
+
+
+body {
+font : 84%/1.2em arial, sans-serif;
+margin : 0;
+padding : 0;
+background-color : white;
+text-align : center;
+
+}
+
+
+div#container_1 {
+width : auto;
+margin-right : auto;
+margin-left : auto;
+margin-bottom : 0.5em;
+padding: 0;
+height : auto;
+border: 1px solid red;
+}
+
+
+div#container_2 {
+width : 774px;
+margin-right : auto;
+margin-left : auto;
+padding: 0;
+height : auto;
+background-color : white;
+text-align : left;
+
+}
+
+
+div#container_2 div {
+
+margin : 0.5em 0.8em 0 0.5em;
+
+}
+
+
+a {
+display: block;
+margin : 0.5em 0.8em 0 0.5em;
+padding : 0;
+font : bold 1em helvetica, sans-serif, arial;
+
+
+}
+
+
+a:link {
+color : #0000ff;
+text-decoration : none;
+
+}
+
+
+a:visited {
+color : #0000ff;
+text-decoration : none;
+
+}
+
+
+a:hover {
+color : #ff0000;
+text-decoration : underline;
+
+}
+
+
+a:active {
+color : #008000;
+text-decoration : none;
+
+}
+
+img {
+margin: 0.5em;
+
+}
+
+
+ul {
+margin: 1em 0 1em 2em;
+padding: 0 0.8em 0 1.2em;
+
+}
+
+ul li {
+margin: 0.5em;
+padding: 0;
+color : green;
+font : bold 1em helvetica, sans-serif, arial;
+
+}
+
+
+h1 {
+margin : 0.5em 0 0.4em 0;
+padding : 0.5em 0 0 0.5em;
+font : bold 1.2em helvetica, sans-serif, arial;
+color: brown;
+
+}
+
+
+h2 {
+margin : 0.5em 0 0.4em 0;
+padding : 0.5em 0 0 0.5em;
+font : bold 1.1em helvetica, sans-serif, arial;
+color: blue;
+
+}
+
+
+h3 {
+margin : 0.5em 0 0.4em 0;
+padding : 0.5em 0 0 0.5em;
+font : bold 1em helvetica, sans-serif, arial;
+color: green;
+
+}
+
+p {
+margin : 0;
+padding : 0.5em 0.8em 0 0.5em;
+font : 1em helvetica, sans-serif, arial;
+color: #000000;
+
+}
+
+span {
+display: block;
+margin : 0;
+padding : 0;
+border: 1px solid blue;
+
+}
+
+table {
+margin: 0.5em 0 0 0;
+padding: 0;
+
+}
+
+tr {
+margin : 0;
+padding : 0;
+
+}
+
+th {
+margin : 0;
+padding : 0.5em 0.8em 0 0.5em;
+font : 1em helvetica, sans-serif, arial;
+color: #000000;
+
+}
+
+td {
+margin : 0;
+padding : 0.5em 0.8em 0 0.5em;
+font : 1em helvetica, sans-serif, arial;
+color: #000000;
+
+}
+
+form {
+margin: 0.5em 0 0 0;
+padding: 0;
+
+}
+
